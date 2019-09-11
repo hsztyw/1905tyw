@@ -91,3 +91,4 @@ if __name__=='__main__':
     app.listen(8000,'127.0.0.1')
     loop=tornado.ioloop.IOLoop.current()
     loop.start()
+    print(111)
