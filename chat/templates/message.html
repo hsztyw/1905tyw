@@ -1,0 +1,7 @@
+<div class="message" id="m{{ message['id'] }}">
+    {{ message['username'] }} 说：
+    {% module linkify(message['body']) %}
+    ({{ message['datetime'] }})
+</div>
+
+<!--include的小模块，是每一条的消息-->
