@@ -1,0 +1,7 @@
+1. primary_key      主键
+2. autoincrement    自增
+3. unique           唯一
+4. index            索引
+5. nullable         是否可空
+6. default          默认值
+7. ForeignKey()     外键

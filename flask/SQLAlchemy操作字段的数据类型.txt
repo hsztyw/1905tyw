@@ -1,0 +1,15 @@
+1.   Integer        整型
+2.   SmallInteger   短整型(其实是直接继承了Integer 没有任何约束)
+3.   BigInteger     长整型(其实是直接继承了Integer 没有任何约束)(下面类型重复的基本如此)
+4.   Float          单精度浮点型
+5.   Numeric        浮点型
+6.   String         字符型
+7.   Text           字符型
+8.   Unicode        字符型
+9.   UnocodeText    字符型
+10.  Boolean        布尔型
+11.  Date           时间
+12.  Time           时间
+13.  DateTime       时间
+14.  Interval       二进制
+15.  LargeBinary    二进制
